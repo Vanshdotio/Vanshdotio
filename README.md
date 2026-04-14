@@ -3,7 +3,7 @@
 <h1 align="center">I'm Vansh Sharma</h1>
 
 <h3 align="center">
-Creative Frontend Developer 💻 | Crafting UIs with HTML, CSS, JS & Tailwind | Portfolio live 🌐 | Open to internship opportunities 🚀 <br>
+Creative Frontend Developer 💻 | Crafting UIs with HTML, CSS, JS & Tailwind | Open to internship opportunities 🚀 <br>
 Student of Ajay Kumar Garg Engineering College
 </h3>
 
