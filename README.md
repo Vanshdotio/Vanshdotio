@@ -1,94 +1,268 @@
-<div style="font-family: Helvetica, Arial, sans-serif;">
+<div align="center">
 
-<h1 align="center">I'm Vansh Sharma</h1>
+# 👋 Hey, I'm Vansh Sharma
 
-<h3 align="center">
-Creative Frontend Developer 💻 | Crafting UIs with HTML, CSS, JS & Tailwind | Open to internship opportunities 🚀 <br>
-Student of Ajay Kumar Garg Engineering College
-</h3>
+### 🚀 Creative Frontend Developer | Full-Stack Developer | UI Enthusiast
+
+**Building modern, interactive & user-focused web experiences with code.**
+
+<p>
+  <a href="https://github.com/vanshsharmadev">
+    <img src="https://img.shields.io/github/followers/vanshsharmadev?label=Followers&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/vanshsharmadev">
+    <img src="https://komarev.com/ghpvc/?username=vanshsharmadev&label=Profile%20Views&style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/npmvanshdev">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Computer Science student and Creative Frontend Developer** who enjoys transforming ideas into interactive and visually engaging web experiences.
+
+* 🎓 Pursuing **Bachelor of Technology in Computer Science**
+* 🏫 Student at **Ajay Kumar Garg Engineering College**
+* 💻 Focused on **Frontend & Full-Stack Web Development**
+* 🎨 Passionate about **UI/UX and modern web interfaces**
+* ⚡ Interested in building **interactive & AI-powered applications**
+* 🤝 Open to collaborating on interesting projects
+* 🚀 Looking for **internship & development opportunities**
+* 🧠 Constantly learning new technologies and development practices
+* 📚 Regularly exploring technical concepts and developer resources
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python" />
+</p>
+
+### 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### 🔧 Tools & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,aws,vercel" />
+</p>
+
+### 🎨 Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma" />
+<img width="90" src="https://1000logos.net/wp-content/uploads/2023/02/Canva-logo.png" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=vanshsharmadev&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshsharmadev&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+## 📊 GitHub Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanshsharmadev&theme=tokyonight" width="100%"/>
 
 <br/>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=blurred-machine&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanshsharmadev&theme=tokyonight" width="49%"/>
 
-<h3>👨‍💻 About Me</h3>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanshsharmadev&theme=tokyonight" width="49%"/>
 
-<ul>
-  <li>🔭 I’m currently pursuing <b>Bachelor of Technology in Computer Science</b></li>
-  <li>👯 I’m looking to collaborate with communities</li>
-  <li>📝 I regularly read technical news</li>
-  <li>💬 Ask me about <b>anything regarding Web Development</b></li>
-  <li>📫 Reach me at <b>vanshsharma0963@gmail.com</b></li>
-  <li>📄 Know about my Personality:
-    <a href="https://www.linkedin.com/in/vansh-sharma-83679532b">LinkedIn</a>
-  </li>
-</ul>
+<br/>
 
-<h3>🛠️ Languages & Tools</h3>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanshsharmadev&theme=tokyonight" width="49%"/>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vanshsharmadev&theme=tokyonight&utcOffset=5.5" width="49%"/>
 
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+</div>
 
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+---
 
-  <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" alt="Postman"/>
+# ⭐ GitHub Achievements
 
-  <!-- Cloud & Hosting -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS" />
+<div align="center">
 
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40"/>
-  <img src="https://cdn.simpleicons.org/render/000000" width="40" alt="Render"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vanshsharmadev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" width="100%"/>
 
+</div>
 
-  <!-- Design -->
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40"/>
-</p>
+---
 
- <h3>📊 GitHub Stats: </h3>
- 
-![](https://github-readme-stats.vercel.app/api?username=Vanshdotio&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Vanshdotio&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshdotio&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 🐍 My Contribution Journey
 
-<h3 align="center">🌐 Connect With Me:</h3>
+<div align="center">
 
-<p align="center">
-<a href="https://www.linkedin.com/in/vansh-sharma-83679532b">
-  <img src="https://cdn-icons-png.flaticon.com/512/3670/3670045.png" width="40"/
+<img src="https://raw.githubusercontent.com/vanshsharmadev/vanshsharmadev/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/vanshsharmadev">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vanshsharmadev&repo=SwiftSupport&theme=tokyonight&hide_border=true" />
 </a>
-  
-  <a href="https://www.instagram.com/developervansh.io">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40"/>
-  </a>
 
-  <a href="https://twitter.com/Vanshdotio">
-    <img src="https://cdn.simpleicons.org/x/000000" width="40"/>
-  </a>
-</p>
+<a href="https://github.com/vanshsharmadev">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vanshsharmadev&repo=MoviGenix&theme=tokyonight&hide_border=true" />
+</a>
 
+</div>
 
-<p align="center">
-You have finally discovered my GitHub profile, so let's get connected!  
-<br/>
-Please feel free to clone projects and raise issues if you think something could be better.  
-<br/>
-<b>Happy Coding!! 🚀</b>
-</p>
+### 🤖 SwiftSupport
+
+An AI-powered customer support platform designed to provide intelligent conversations, knowledge-base support and real-time communication.
+
+**Tech:** `React` `Node.js` `Express.js` `MongoDB` `Socket.IO`
+
+---
+
+### 🎬 MoviGenix
+
+A movie discovery and recommendation platform with movie browsing, dynamic content, player integration and a modern interactive UI.
+
+**Tech:** `React` `JavaScript` `Tailwind CSS` `TMDB API`
+
+---
+
+### 📚 The Archive
+
+A library management system for managing books, students, inventory and issue/return operations.
+
+**Tech:** `HTML` `CSS` `JavaScript` `Node.js` `MongoDB`
+
+---
+
+### 🎵 MoodyPlayer
+
+An interactive music application that uses facial-expression detection to understand the user's mood and recommend suitable music.
+
+**Tech:** `React` `face-api.js` `JavaScript` `Node.js`
+
+---
+
+## 💼 What I'm Currently Working On
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  💻 Full-Stack Web Development                              │
+│  🤖 AI-powered applications                                 │
+│  🎨 Creative & interactive frontend experiences             │
+│  📱 Responsive UI/UX                                        │
+│  🚀 Modern JavaScript ecosystem                             │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 📌 Development Focus
+
+```text
+Frontend Development     ████████████████████░   React / Next.js
+Backend Development      ████████████████░░░░░   Node / Express
+UI / UX                  ███████████████████░░   Figma / Tailwind
+Database                 ███████████████░░░░░░   MongoDB
+DevOps                   ████████████░░░░░░░░░   Git / Docker / AWS
+AI Integration           █████████████░░░░░░░░   AI-powered Apps
+```
+
+---
+
+# 📚 Currently Learning
+
+* Advanced React & modern frontend architecture
+* Backend architecture with Node.js
+* System design fundamentals
+* AI integration in web applications
+* Docker & deployment workflows
+* Better UI/UX implementation
+* Scalable full-stack application development
+
+---
+
+# 💼 Experience & Achievements
+
+* 🚀 Completed multiple full-stack development projects
+* 💻 Worked on AI-powered web applications
+* 🎨 Built interactive frontend experiences
+* 📦 Worked with Git/GitHub based development workflows
+* 🧑‍💻 Completed internship-based development tasks
+* 🏗️ Building projects using modern JavaScript technologies
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/npmvanshdev">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="60" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:vanshsharma0963@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="60" alt="Email"/>
+</a>
+
+<a href="https://github.com/vanshsharmadev">
+  <img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub"/>
+</a>
+
+<a href="https://instagram.com/developervansh.io">
+  <img src="https://skillicons.dev/icons?i=instagram" width="60" alt="Instagram"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Code. Create. Learn. Repeat."
+
+**Thanks for visiting my profile! 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=100&section=footer"/>
 
 </div>
