@@ -43,7 +43,7 @@ I'm a **Computer Science student and Creative Frontend Developer** who enjoys tr
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
 </p>
 
 ### 🎨 Frontend Development
